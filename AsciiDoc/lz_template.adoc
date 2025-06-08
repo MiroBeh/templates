@@ -1,0 +1,84 @@
+:imagesdir: 12_landingzones/img
+
+ifdef::env-github[]
+:imagesdir: img/
+:sectnums:
+endif::[]
+
+ifdef::env-vscode[]
+:imagesdir: img/
+:sectnums:
+endif::[]
+
+= Landingzone X
+:table-stripes: even
+
+[cols="1,1,1"]
+|===
+|Status |Last Update | Updated by
+
+|draft
+//(options: draft, ready, proposed, rejected, accepted, deprecated) 
+|2023-06-05| Celine Schwan
+
+|===
+
+
+== Overview
+
+image::landingzone_x_architecture.png[align="center",width="100%"]
+
+* Applications within the landingzone:
+** Application A
+** Application B
+
+=== Responsibility of the Landingzone and Application(s)
+
+=== Context View
+
+=== Non-Functional Requirements
+
+=== Design Driving Decisions
+
+== Infrastructure
+
+image::landingzone_x_infrastructure.png[align="center",width="100%"]
+
+=== Compute
+
+* [ ] Container
+* [ ] Virtual Machines
+
+=== Networking
+
+* [ ] Internet-facing
+* [ ] On-premise connection
+
+=== Observability
+
+=== Backup & Recovery
+
+=== IaC Automation
+
+== Application(s)
+
+=== Component Model
+
+
+=== Behavior Model 
+//TODO: which model to show the behavior of the application
+
+=== Private & Public Endpoints
+
+=== Build & Deployment Automation
+// Application build and deployment
+
+== Data
+
+* [ ] Persistent Data
+
+* Data Classicfication:
+//TODO: create classification
+* Database Type:
+
+

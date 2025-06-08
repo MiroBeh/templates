@@ -1,0 +1,45 @@
+:imagesdir: 00_architectural_artifacts/img
+
+ifdef::env-github[]
+:imagesdir: img/
+:sectnums:
+endif::[]
+
+ifdef::env-vscode[]
+:imagesdir: img/
+:sectnums:
+endif::[]
+
+= Topic
+:table-stripes: even
+
+[cols="1,1,1"]
+|===
+|Status |Last Update | Updated by
+
+|draft
+//(options: draft, ready, proposed, rejected, accepted, deprecated) 
+|2023-06-05| Celine Schwan
+
+|===
+
+
+== Overview
+
+//image::overview.drawio.png[Overview]
+
+//summary of the topic
+
+== Specifics 
+
+//detailed description with subtopics
+
+== References
+
+=== Azure
+
+//include references to Azure documentation
+
+=== Internal
+
+//include references to internal documentation

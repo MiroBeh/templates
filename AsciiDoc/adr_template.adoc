@@ -1,0 +1,58 @@
+:imagesdir: 00_architectural_artifacts/architectural-decisions/img
+
+ifdef::env-github[]
+:imagesdir: img/
+:sectnums:
+endif::[]
+
+ifdef::env-vscode[]
+:imagesdir: img/
+:sectnums:
+endif::[]
+
+= ADR-00X Title
+
+[cols="1,1,1,1,1,2"]
+|===
+| *Status* | draft 
+//(options: draft, ready, proposed, rejected, accepted, deprecated)
+| *Last Update* | 2023-06-05
+| *Decider* |
+| *Context or Problem* 5+| 
+//description
+
+| *Decision Drivers* 5+a|  
+
+//drivers
+
+| *Assumptions* 5+a|  
+
+//assumptions
+
+| *Motivation* 5+a|
+
+//motivation
+
+| *Alternatives* 5+a| 
+
+. option 1
+. option 2
+. option 3
+
+| *Decision* 5+|
+
+| *Justification* 5+a|
+
+//justification
+
+| *Implications* 5+a|
+
+// implications
+
+| *Related Decisions* 5+| 
+
+| *Open Questions* 5+a|
+
+| *Related Documents* 5+a|
+
+|===
