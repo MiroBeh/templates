@@ -1,0 +1,27 @@
+:title: title
+:author: authorname
+:doctype: book
+:sectnums:
+:sectnumlevels: 2
+:chapter-signifier:
+:toc:
+:icons: font
+:toc: right
+:toclevels: 2
+:imagesdir: img
+:sectanchors:
+:data-uri:
+
+= Documentation
+
+:leveloffset: +1
+
+include::aaa.adoc[]
+
+include::bbb.adoc[]
+
+include::ccc.adoc[]
+
+include::ddd.adoc[]
+
+:leveloffset: -1
